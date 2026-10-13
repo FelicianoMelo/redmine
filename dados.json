@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "status": "Concluído",
+        "observacao": "Atualizado via automação"
+    },
+    {
+        "id": 2,
+        "status": "Em andamento",
+        "observacao": "Aguardando cliente"
+    }
+]
