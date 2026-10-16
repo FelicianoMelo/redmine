@@ -1,0 +1,785 @@
+[
+ {
+  "Data":"20/01/2024",
+  "Resumo":"Dia do Cat�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia 20 de janeiro, � feriado no calend�rio oficial do Governo do Estado do Acre, conforme lei N� 3137/2016. O Dia do Cat�lico foi criado em 2016, em similaridade ao dia do Evng�lico",
+  "UF":"AC"
+},
+{
+  "Data":"23/01/2024",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia 23 de janeiro, � feriado no calend�rio oficial do Governo do Estado do Acre, conforme lei N� 1538/2004. O Dia do Evang�lico foi criado em 2004, por meio de projeto de lei apresentado pelo deputado Helder Paiva, aprovado pela ent�o governador Jorge Viana",
+  "UF":"AC"
+
+},
+{
+  "Data":"08/03/2024",
+  "Resumo":"Dia da Mulher",
+  "Estado":"ESTADUAL",
+  "Descricao":"Feriado conforme lei N� 1411/2001, mas adiado para Sexta-Feira. O Dia Internacional da Mulher, celebrado em 8 de mar�o, tem como origem as manifesta��es das mulheres russas por melhores condi��es de vida e trabalho e contra a entrada da R�ssia czarista na Primeira1 Guerra Mundial.",
+  "UF":"AC"
+
+},
+{
+  "Data":"15/06/2024",
+  "Resumo":"Anivers�rio do Acre",
+  "Estado":"ESTADUAL",
+  "Descricao":"De acordo com a Lei Estadual n� 14, de 02 de setembro de 1964",
+  "UF":"AC"
+
+},
+{
+  "Data":"06/09/2024",
+  "Resumo":"Dia da Amaz�nia",
+  "Estado":"ESTADUAL",
+  "Descricao":"Conforme a lei N� 243/1968, no dia 5 de setembro comemora-se no Acre o dia da Amaz�nia, a maior floresta do mundo. Feriado adiado para Sexta-Feira.",
+  "UF":"AC"
+
+},
+{
+  "Data":"24/06/2024",
+  "Resumo":"Dia de S�o Jo�o",
+  "Estado":"ESTADUAL",
+  "Descricao":"O mastro de S�o Jo�o, conhecido em Portugal tamb�m como o mastro dos Santos Populares, � erguido durante a festa junina para celebrar os tr�s santos ligados a essa festa.",
+  "UF":"AL"
+
+},
+{
+  "Data":"29/06/2024",
+  "Resumo":"Dia de S�o Pedro",
+  "Estado":"ESTADUAL",
+  "Descricao":"S�o Pedro foi um dos doze ap�stolos de Jesus Cristo, segundo o Novo Testamento e, mais especificamente, os quatro Evangelhos. Os cat�licos consideram Pedro como o primeiro Bispo de Roma, sendo por isso o primeiro Papa da Igreja Cat�lica.",
+  "UF":"AL"
+
+},
+{
+  "Data":"16/09/2024",
+  "Resumo":"Emancipa��o de Alagoas",
+  "Estado":"ESTADUAL",
+  "Descricao":"Comemora��o da emancipa��o pol�tica do estado de Alagoas. Inicialmente o territ�rio alagoano constitu�a a parte sul da Capitania de Pernambuco e s� conseguiu sua autonomia em 1817.",
+  "UF":"AL"
+
+},
+{
+  "Data":"20/11/2024",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"AL"
+
+},
+{
+  "Data":"30/11/2024",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia do evang�lico, conforme decreto n� 56.880, de 19 de Dezembro de 2017.",
+  "UF":"AL"
+
+},
+{
+  "Data":"05/09/2024",
+  "Resumo":"Anivers�rio do Amazonas",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia da eleva��o do Amazonas � categoria de prov�ncia.",
+  "UF":"AM"
+
+},
+{
+  "Data":"20/11/2024",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"AM"
+
+},
+{
+  "Data":"19/03/2024",
+  "Resumo":"Dia de S�o Jos�",
+  "Estado":"ESTADUAL",
+  "Descricao":"S�o Jos� � o santo padroeiro do Estado do Amap�.",
+  "UF":"AP"
+
+},
+{
+  "Data":"15/05/2024",
+  "Resumo":"Dia de Cabralzinho",
+  "Estado":"ESTADUAL",
+  "Descricao":"Homenagem a Francisco Xavier da Veiga Cabral, o Cabralzinho, que recha�ou uma invas�o francesa em 15 de maio de 1895. Conforme lei 2.213/2017",
+  "UF":"AP"
+
+},
+{
+  "Data":"25/07/2024",
+  "Resumo":"Dia de S�o Tiago",
+  "Estado":"ESTADUAL",
+  "Descricao":"De acordo com a Lei n� 1.696 de 09 de julho de 2012",
+  "UF":"AP"
+
+},
+{
+  "Data":"13/09/2024",
+  "Resumo":"Anivers�rio da cria��o do ex-territ�rio federal do Amap�",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia da cria��o do territ�rio federal do Amap�.",
+  "UF":"AP"
+
+},
+{
+  "Data":"20/11/2024",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"De acordo com a Lei N� 1.169, de 27 de dezembro de 2007",
+  "UF":"AP"
+
+},
+{
+  "Data":"30/11/2024",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia 30 de Novembro comemora-se o dia o evang�lico no estado do Amap�.",
+  "UF":"AP"
+
+},
+{
+  "Data":"08/12/2024",
+  "Resumo":"N. Sra. Concei��o",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia de Nossa Senhora da Concei��o",
+  "UF":"AP"
+
+},
+{
+  "Data":"02/07/2024",
+  "Resumo":"Independ�ncia da Bahia",
+  "Estado":"ESTADUAL",
+  "Descricao":"A Independ�ncia da Bahia foi um movimento que, motivado pelo sentimento federalista emancipador de seu povo, em 2 de julho de 1823 terminou pela inser��o daquela ent�o prov�ncia na unidade nacional brasileira.",
+  "UF":"BA"
+
+},
+{
+  "Data":"25/03/2024",
+  "Resumo":"Data Magna do Cear�",
+  "Estado":"ESTADUAL",
+  "Descricao":"� a data magna onde ocorrem as comemora��es do estado do Cear�, sendo o mesmo dia da aboli��o da escravid�o neste estado. O Cear� foi a primeira prov�ncia brasileira a aboliar a escravid�o.",
+  "UF":"CE"
+
+},
+{
+  "Data":"30/11/2024",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"O presidente Lula sancionou a Lei N� 12.328 que torna o dia 30 de novembro o Dia Nacional do Evang�lico. Este dia � feriado no DF e em alguns outros estados",
+  "UF":"DF"
+
+},
+{
+  "Data":"28/07/2024",
+  "Resumo":"Ades�o ao Imp�rio Brasileiro",
+  "Estado":"ESTADUAL",
+  "Descricao":"As tropas de Portugal depois de cercadas por terra e mar, acabaram por se render, e o Maranh�o, a partir de 28 de julho de 1823, deixou de ser estado colonial de Portugal, tornando-se prov�ncia do Imp�rio do Brasil.",
+  "UF":"MA"
+
+},
+{
+  "Data":"20/11/2024",
+  "Resumo":"Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia de comemora��o da Consci�ncia Negra",
+  "UF":"MA"
+
+},
+{
+  "Data":"11/10/2024",
+  "Resumo":"Anivers�rio do Mato Grosso do Sul",
+  "Estado":"ESTADUAL",
+  "Descricao":"Comemora��es do anivers�rio de cria��o do Estado do Mato Grosso do Sul.",
+  "UF":"MS"
+
+},
+{
+  "Data":"20/11/2024",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"MT"
+
+},
+{
+  "Data":"15/08/2024",
+  "Resumo":"Ades�o ao Imp�rio Brasileiro",
+  "Estado":"ESTADUAL",
+  "Descricao":"A Prov�ncia do Par� foi a �ltima a ser incorporada ao Imp�rio, quando da Independ�ncia do Brasil uma vez que, com fortes la�os com Portugal, n�o aceitou fazer parte da nova na��o.",
+  "UF":"PA"
+
+},
+{
+  "Data":"08/12/2024",
+  "Resumo":"N. Sra. Concei��o",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia de Nossa Senhora da Concei��o",
+  "UF":"PA"
+
+},
+{
+  "Data":"26/07/2024",
+  "Resumo":"Homenagem a Jo�o Pessoa",
+  "Estado":"ESTADUAL",
+  "Descricao":"Homenagem ao ex-presidente Jo�o Pessoa que foi assassinado em 26 de Julho de 1930.",
+  "UF":"PB"
+
+},
+{
+  "Data":"05/08/2024",
+  "Resumo":"Funda��o do Estado da Para�ba",
+  "Estado":"ESTADUAL",
+  "Descricao":"Comemora��o da funda��o do estado da Para�ba.",
+  "UF":"PB"
+
+},
+{
+  "Data":"06/03/2024",
+  "Resumo":"Revolu��o Pernambucana",
+  "Estado":"ESTADUAL",
+  "Descricao":"Data Magna de Pernambuco (Lei n� 16.059, de 8 de junho de 2017). A chamada Revolu��o Pernambucana, tamb�m conhecida como Revolu��o dos Padres, eclodiu em 6 de mar�o de 1817 na ent�o Prov�ncia de Pernambuco, no Brasil.",
+  "UF":"PE"
+
+},
+{
+  "Data":"24/06/2024",
+  "Resumo":"Dia de S�o Jo�o",
+  "Estado":"ESTADUAL",
+  "Descricao":"O mastro de S�o Jo�o, conhecido em Portugal tamb�m como o mastro dos Santos Populares, � erguido durante a festa junina para celebrar os tr�s santos ligados a essa festa.",
+  "UF":"PE"
+
+},
+{
+  "Data":"19/10/2024",
+  "Resumo":"Dia do Piau�",
+  "Estado":"ESTADUAL",
+  "Descricao":"Independ�ncia da prov�ncia do Piau� da coroa portuguesa, que ocorreu na cidade de Parnaiba. Feriado Estadual de acordo com a Lei Estadual n� 176, de 30.08.1937.",
+  "UF":"PI"
+
+},
+{
+  "Data":"06/08/2024",
+  "Resumo":"Revolu��o Acreana",
+  "Estado":"ESTADUAL",
+  "Descricao":" ",
+  "UF":"AC"
+
+},
+{
+  "Data":"08/12/2024",
+  "Resumo":"Dia de Nossa Senhora da Concei��o",
+  "Estado":"ESTADUAL",
+  "Descricao":" ",
+  "UF":"AM"
+
+},
+{
+  "Data":"13/02/2024",
+  "Resumo":"Carnaval",
+  "Estado":"ESTADUAL",
+  "Descricao":"Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+  "UF":"RJ"
+
+},
+{
+  "Data":"23/04/2024",
+  "Resumo":"Dia de S�o Jorge",
+  "Estado":"ESTADUAL",
+  "Descricao":"S�o Jorge foi, de acordo com a tradi��o, um padre e soldado romano no ex�rcito do imperador Diocleciano, venerado como m�rtir crist�o.",
+  "UF":"RJ"
+
+},
+{
+  "Data":"20/11/2024",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"RJ"
+
+},
+{
+  "Data":"03/10/2024",
+  "Resumo":"M�rtires de Cunha� e Urua�u",
+  "Estado":"ESTADUAL",
+  "Descricao":"No dia 03 de outubro de 1645, ocorreu o Massacre de Urua�u, onde 28 crist�os foram mortos por �ndios e soldados holandeses.",
+  "UF":"RN"
+
+},
+{
+  "Data":"04/01/2024",
+  "Resumo":"Anivers�rio de Rond�nia",
+  "Estado":"ESTADUAL",
+  "Descricao":"Anivers�rio da data de cria��o do Estado de Rond�nia.",
+  "UF":"RO"
+
+},
+{
+  "Data":"18/06/2024",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia 18 de Junho comemora-se o dia o evang�lico no estado de Rond�nia.",
+  "UF":"RO"
+
+},
+{
+  "Data":"05/10/2024",
+  "Resumo":"Anivers�rio de Roraima",
+  "Estado":"ESTADUAL",
+  "Descricao":"Comemora��es do Anivers�rio da cria��o do Estado de Roraima.",
+  "UF":"RR"
+
+},
+{
+  "Data":"20/11/2024",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � Feriado em Roraima e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"RR"
+
+},
+{
+  "Data":"20/09/2024",
+  "Resumo":"Proc. Rep�blica Rio Grandense",
+  "Estado":"ESTADUAL",
+  "Descricao":"Em 1835 foi desencadeada a Revolu��o Farroupilha, que manifestava o descontentamento da Prov�ncia de S�o Pedro do Rio Grande com o governo regencial do Imp�rio do Brasil. O movimento culminou na proclama��o da Rep�blica Rio-Grandense.",
+  "UF":"RS"
+
+},
+{
+  "Data":"11/08/2024",
+  "Resumo":"Dia de Santa Catarina",
+  "Estado":"ESTADUAL",
+  "Descricao":"A Capitania de Santa Catarina foi criada em 11 de agosto de 1738. Em 28 de fevereiro de 1821 torna-se uma prov�ncia, que viria a ser o atual estado de Santa Catarina com a Proclama��o da Rep�blica.",
+  "UF":"SC"
+
+},
+{
+  "Data":"08/07/2024",
+  "Resumo":"Anivers�rio de Sergipe",
+  "Estado":"ESTADUAL",
+  "Descricao":"Anivers�rio da Autonomia Pol�tica de Sergipe.",
+  "UF":"SE"
+
+},
+{
+  "Data":"09/07/2024",
+  "Resumo":"Revolu��o Constitucionalista",
+  "Estado":"ESTADUAL",
+  "Descricao":"A Revolu��o Constitucionalista de 1932 foi um movimento armado que tinha por objetivo a derrubada do Governo Provis�rio de Get�lio Vargas e a promulga��o de uma nova constitui��o para o Brasil.",
+  "UF":"SP"
+
+},
+{
+  "Data":"08/09/2024",
+  "Resumo":"Padroeira de Tocantins",
+  "Estado":"ESTADUAL",
+  "Descricao":"O nascimento de Nossa Senhora ou a Natividade de Maria � uma festa lit�rgica das Igrejas Cat�lica e Anglicana, celebrada no dia 8 de setembro, nove meses ap�s a sua Imaculada Concei��o, celebrada em 8 de dezembro.",
+  "UF":"TO"
+
+},
+{
+  "Data":"05/10/2024",
+  "Resumo":"Anivers�rio de Tocantins",
+  "Estado":"ESTADUAL",
+  "Descricao":"Em 5 de outubro de 1988, o norte de Goi�s foi emancipado, passando a se chamar Tocantins. Em 1� de janeiro de 1989, a Unidade Federativa do Tocantins foi oficialmente instalada.",
+  "UF":"TO"
+
+},
+{
+  "Data":"20/01/2025",
+  "Resumo":"Dia do Cat�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia 20 de janeiro, � feriado no calend�rio oficial do Governo do Estado do Acre, conforme lei N� 3137/2016. O Dia do Cat�lico foi criado em 2016, em similaridade ao dia do Evng�lico",
+  "UF":"AC"
+
+},
+{
+  "Data":"23/01/2025",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia 23 de janeiro, � feriado no calend�rio oficial do Governo do Estado do Acre, conforme lei N� 1538/2004. O Dia do Evang�lico foi criado em 2004, por meio de projeto de lei apresentado pelo deputado Helder Paiva, aprovado pela ent�o governador Jorge Viana",
+  "UF":"AC"
+
+},
+{
+  "Data":"08/03/2025",
+  "Resumo":"Dia da Mulher",
+  "Estado":"ESTADUAL",
+  "Descricao":"Feriado conforme lei N� 1411/2001, mas adiado para Sexta-Feira. O Dia Internacional da Mulher, celebrado em 8 de mar�o, tem como origem as manifesta��es das mulheres russas por melhores condi��es de vida e trabalho e contra a entrada da R�ssia czarista na Primeira1 Guerra Mundial.",
+  "UF":"AC"
+
+},
+{
+  "Data":"15/06/2025",
+  "Resumo":"Anivers�rio do Acre",
+  "Estado":"ESTADUAL",
+  "Descricao":"De acordo com a Lei Estadual n� 14, de 02 de setembro de 1964",
+  "UF":"AC"
+
+},
+{
+  "Data":"06/08/2025",
+  "Resumo":"Revolu��o Acreana",
+  "Estado":"ESTADUAL",
+  "Descricao":" ",
+  "UF":"AC"
+
+},
+{
+  "Data":"05/09/2025",
+  "Resumo":"Dia da Amaz�nia",
+  "Estado":"ESTADUAL",
+  "Descricao":"Conforme a lei N� 243/1968, no dia 5 de setembro comemora-se no Acre o dia da Amaz�nia, a maior floresta do mundo. Feriado adiado para Sexta-Feira.",
+  "UF":"AC"
+
+},
+{
+  "Data":"24/06/2025",
+  "Resumo":"Dia de S�o Jo�o",
+  "Estado":"ESTADUAL",
+  "Descricao":"O mastro de S�o Jo�o, conhecido em Portugal tamb�m como o mastro dos Santos Populares, � erguido durante a festa junina para celebrar os tr�s santos ligados a essa festa.",
+  "UF":"AL"
+
+},
+{
+  "Data":"29/06/2025",
+  "Resumo":"Dia de S�o Pedro",
+  "Estado":"ESTADUAL",
+  "Descricao":"S�o Pedro foi um dos doze ap�stolos de Jesus Cristo, segundo o Novo Testamento e, mais especificamente, os quatro Evangelhos. Os cat�licos consideram Pedro como o primeiro Bispo de Roma, sendo por isso o primeiro Papa da Igreja Cat�lica.",
+  "UF":"AL"
+
+},
+{
+  "Data":"16/09/2025",
+  "Resumo":"Emancipa��o de Alagoas",
+  "Estado":"ESTADUAL",
+  "Descricao":"Comemora��o da emancipa��o pol�tica do estado de Alagoas. Inicialmente o territ�rio alagoano constitu�a a parte sul da Capitania de Pernambuco e s� conseguiu sua autonomia em 1817.",
+  "UF":"AL"
+
+},
+{
+  "Data":"20/11/2025",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"AL"
+
+},
+{
+  "Data":"30/11/2025",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia do evang�lico, conforme decreto n� 56.880, de 19 de Dezembro de 2017.",
+  "UF":"AL"
+
+},
+{
+  "Data":"05/09/2025",
+  "Resumo":"Anivers�rio do Amazonas",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia da eleva��o do Amazonas � categoria de prov�ncia.",
+  "UF":"AM"
+
+},
+{
+  "Data":"20/11/2025",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"AM"
+
+},
+{
+  "Data":"08/12/2025",
+  "Resumo":"Dia de Nossa Senhora da Concei��o",
+  "Estado":"ESTADUAL",
+  "Descricao":" ",
+  "UF":"AM"
+
+},
+{
+  "Data":"19/03/2025",
+  "Resumo":"Dia de S�o Jos�",
+  "Estado":"ESTADUAL",
+  "Descricao":"S�o Jos� � o santo padroeiro do Estado do Amap�.",
+  "UF":"AP"
+
+},
+{
+  "Data":"15/05/2025",
+  "Resumo":"Dia de Cabralzinho",
+  "Estado":"ESTADUAL",
+  "Descricao":"Homenagem a Francisco Xavier da Veiga Cabral, o Cabralzinho, que recha�ou uma invas�o francesa em 15 de maio de 1895. Conforme lei 2.213/2017",
+  "UF":"AP"
+
+},
+{
+  "Data":"25/07/2025",
+  "Resumo":"Dia de S�o Tiago",
+  "Estado":"ESTADUAL",
+  "Descricao":"De acordo com a Lei n� 1.696 de 09 de julho de 2012",
+  "UF":"AP"
+
+},
+{
+  "Data":"13/09/2025",
+  "Resumo":"Anivers�rio da cria��o do ex-territ�rio federal do Amap�",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia da cria��o do territ�rio federal do Amap�.",
+  "UF":"AP"
+
+},
+{
+  "Data":"20/11/2025",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"De acordo com a Lei N� 1.169, de 27 de dezembro de 2007",
+  "UF":"AP"
+
+},
+{
+  "Data":"30/11/2025",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia 30 de Novembro comemora-se o dia o evang�lico no estado do Amap�.",
+  "UF":"AP"
+
+},
+{
+  "Data":"08/12/2025",
+  "Resumo":"N. Sra. Concei��o",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia de Nossa Senhora da Concei��o",
+  "UF":"AP"
+
+},
+{
+  "Data":"02/07/2025",
+  "Resumo":"Independ�ncia da Bahia",
+  "Estado":"ESTADUAL",
+  "Descricao":"A Independ�ncia da Bahia foi um movimento que, motivado pelo sentimento federalista emancipador de seu povo, em 2 de julho de 1823 terminou pela inser��o daquela ent�o prov�ncia na unidade nacional brasileira.",
+  "UF":"BA"
+
+},
+{
+  "Data":"25/03/2025",
+  "Resumo":"Data Magna do Cear�",
+  "Estado":"ESTADUAL",
+  "Descricao":"� a data magna onde ocorrem as comemora��es do estado do Cear�, sendo o mesmo dia da aboli��o da escravid�o neste estado. O Cear� foi a primeira prov�ncia brasileira a aboliar a escravid�o.",
+  "UF":"CE"
+
+},
+{
+  "Data":"30/11/2025",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"O presidente Lula sancionou a Lei N� 12.328 que torna o dia 30 de novembro o Dia Nacional do Evang�lico. Este dia � feriado no DF e em alguns outros estados",
+  "UF":"DF"
+
+},
+{
+  "Data":"28/07/2025",
+  "Resumo":"Ades�o ao Imp�rio Brasileiro",
+  "Estado":"ESTADUAL",
+  "Descricao":"As tropas de Portugal depois de cercadas por terra e mar, acabaram por se render, e o Maranh�o, a partir de 28 de julho de 1823, deixou de ser estado colonial de Portugal, tornando-se prov�ncia do Imp�rio do Brasil.",
+  "UF":"MA"
+
+},
+{
+  "Data":"20/11/2025",
+  "Resumo":"Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia de comemora��o da Consci�ncia Negra",
+  "UF":"MA"
+
+},
+{
+  "Data":"11/10/2025",
+  "Resumo":"Anivers�rio do Mato Grosso do Sul",
+  "Estado":"ESTADUAL",
+  "Descricao":"Comemora��es do anivers�rio de cria��o do Estado do Mato Grosso do Sul.",
+  "UF":"MS"
+
+},
+{
+  "Data":"20/11/2025",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"MT"
+
+},
+{
+  "Data":"15/08/2025",
+  "Resumo":"Ades�o ao Imp�rio Brasileiro",
+  "Estado":"ESTADUAL",
+  "Descricao":"A Prov�ncia do Par� foi a �ltima a ser incorporada ao Imp�rio, quando da Independ�ncia do Brasil uma vez que, com fortes la�os com Portugal, n�o aceitou fazer parte da nova na��o.",
+  "UF":"PA"
+
+},
+{
+  "Data":"08/12/2025",
+  "Resumo":"N. Sra. Concei��o",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia de Nossa Senhora da Concei��o",
+  "UF":"PA"
+
+},
+{
+  "Data":"26/07/2025",
+  "Resumo":"Homenagem a Jo�o Pessoa",
+  "Estado":"ESTADUAL",
+  "Descricao":"Homenagem ao ex-presidente Jo�o Pessoa que foi assassinado em 26 de Julho de 1930.",
+  "UF":"PB"
+
+},
+{
+  "Data":"05/08/2025",
+  "Resumo":"Funda��o do Estado da Para�ba",
+  "Estado":"ESTADUAL",
+  "Descricao":"Comemora��o da funda��o do estado da Para�ba.",
+  "UF":"PB"
+
+},
+{
+  "Data":"06/03/2025",
+  "Resumo":"Revolu��o Pernambucana",
+  "Estado":"ESTADUAL",
+  "Descricao":"Data Magna de Pernambuco (Lei n� 16.059, de 8 de junho de 2017). A chamada Revolu��o Pernambucana, tamb�m conhecida como Revolu��o dos Padres, eclodiu em 6 de mar�o de 1817 na ent�o Prov�ncia de Pernambuco, no Brasil.",
+  "UF":"PE"
+
+},
+{
+  "Data":"24/06/2025",
+  "Resumo":"Dia de S�o Jo�o",
+  "Estado":"ESTADUAL",
+  "Descricao":"O mastro de S�o Jo�o, conhecido em Portugal tamb�m como o mastro dos Santos Populares, � erguido durante a festa junina para celebrar os tr�s santos ligados a essa festa.",
+  "UF":"PE"
+
+},
+{
+  "Data":"19/10/2025",
+  "Resumo":"Dia do Piau�",
+  "Estado":"ESTADUAL",
+  "Descricao":"Independ�ncia da prov�ncia do Piau� da coroa portuguesa, que ocorreu na cidade de Parnaiba. Feriado Estadual de acordo com a Lei Estadual n� 176, de 30.08.1937.",
+  "UF":"PI"
+
+},
+{
+  "Data":"04/03/2025",
+  "Resumo":"Carnaval",
+  "Estado":"ESTADUAL",
+  "Descricao":"Feriado estadual no Rio de Janeiro, conforme lei 5243/2008. Ponto Facultativo no restante do Brasil",
+  "UF":"RJ"
+
+},
+{
+  "Data":"23/04/2025",
+  "Resumo":"Dia de S�o Jorge",
+  "Estado":"ESTADUAL",
+  "Descricao":"S�o Jorge foi, de acordo com a tradi��o, um padre e soldado romano no ex�rcito do imperador Diocleciano, venerado como m�rtir crist�o.",
+  "UF":"RJ"
+
+},
+{
+  "Data":"20/11/2025",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � Feriado no Rio de Janeiro e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"RJ"
+
+},
+{
+  "Data":"03/10/2025",
+  "Resumo":"M�rtires de Cunha� e Urua�u",
+  "Estado":"ESTADUAL",
+  "Descricao":"No dia 03 de outubro de 1645, ocorreu o Massacre de Urua�u, onde 28 crist�os foram mortos por �ndios e soldados holandeses.",
+  "UF":"RN"
+
+},
+{
+  "Data":"04/01/2025",
+  "Resumo":"Anivers�rio de Rond�nia",
+  "Estado":"ESTADUAL",
+  "Descricao":"Anivers�rio da data de cria��o do Estado de Rond�nia.",
+  "UF":"RO"
+
+},
+{
+  "Data":"18/06/2025",
+  "Resumo":"Dia do Evang�lico",
+  "Estado":"ESTADUAL",
+  "Descricao":"Dia 18 de Junho comemora-se o dia o evang�lico no estado de Rond�nia.",
+  "UF":"RO"
+
+},
+{
+  "Data":"05/10/2025",
+  "Resumo":"Anivers�rio de Roraima",
+  "Estado":"ESTADUAL",
+  "Descricao":"Comemora��es do Anivers�rio da cria��o do Estado de Roraima.",
+  "UF":"RR"
+
+},
+{
+  "Data":"20/11/2025",
+  "Resumo":"Dia da Consci�ncia Negra",
+  "Estado":"ESTADUAL",
+  "Descricao":"O Dia Nacional da Consci�ncia Negra � Feriado em Roraima e celebrado em 20 de novembro, a data foi escolhida por coincidir com o dia da morte de Zumbi dos Palmares, em 1695.",
+  "UF":"RR"
+
+},
+{
+  "Data":"20/09/2025",
+  "Resumo":"Proc. Rep�blica Rio Grandense",
+  "Estado":"ESTADUAL",
+  "Descricao":"Em 1835 foi desencadeada a Revolu��o Farroupilha, que manifestava o descontentamento da Prov�ncia de S�o Pedro do Rio Grande com o governo regencial do Imp�rio do Brasil. O movimento culminou na proclama��o da Rep�blica Rio-Grandense.",
+  "UF":"RS"
+
+},
+{
+  "Data":"11/08/2025",
+  "Resumo":"Dia de Santa Catarina",
+  "Estado":"ESTADUAL",
+  "Descricao":"A Capitania de Santa Catarina foi criada em 11 de agosto de 1738. Em 28 de fevereiro de 1821 torna-se uma prov�ncia, que viria a ser o atual estado de Santa Catarina com a Proclama��o da Rep�blica.",
+  "UF":"SC"
+
+},
+{
+  "Data":"08/07/2025",
+  "Resumo":"Anivers�rio de Sergipe",
+  "Estado":"ESTADUAL",
+  "Descricao":"Anivers�rio da Autonomia Pol�tica de Sergipe.",
+  "UF":"SE"
+
+},
+{
+  "Data":"09/07/2025",
+  "Resumo":"Revolu��o Constitucionalista",
+  "Estado":"ESTADUAL",
+  "Descricao":"A Revolu��o Constitucionalista de 1932 foi um movimento armado que tinha por objetivo a derrubada do Governo Provis�rio de Get�lio Vargas e a promulga��o de uma nova constitui��o para o Brasil.",
+  "UF":"SP"
+
+},
+{
+  "Data":"08/09/2025",
+  "Resumo":"Padroeira de Tocantins",
+  "Estado":"ESTADUAL",
+  "Descricao":"O nascimento de Nossa Senhora ou a Natividade de Maria � uma festa lit�rgica das Igrejas Cat�lica e Anglicana, celebrada no dia 8 de setembro, nove meses ap�s a sua Imaculada Concei��o, celebrada em 8 de dezembro.",
+  "UF":"TO"
+
+},
+{
+  "Data":"05/10/2025",
+  "Resumo":"Anivers�rio de Tocantins",
+  "Estado":"ESTADUAL",
+  "Descricao":"Em 5 de outubro de 1988, o norte de Goi�s foi emancipado, passando a se chamar Tocantins. Em 1� de janeiro de 1989, a Unidade Federativa do Tocantins foi oficialmente instalada.",
+  "UF":"TO"
+
+}
+]
