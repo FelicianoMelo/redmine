@@ -1,2 +1,18 @@
+# Arquivos de log
+**/logsgit
+.lock
+.tmp   
+*.xlsx
+.env
+*teste*
+*.pyc
+#pasta do ambiente virtual
+/bin
+/out
+/target
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+.idea/workspace.xml
 .env
 DEVs_Redmine_2026.xlsx

@@ -1,12 +1,224 @@
-[
-    {
-        "id": 1,
-        "status": "Concluído",
-        "observacao": "Atualizado via automação"
-    },
-    {
-        "id": 2,
-        "status": "Em andamento",
-        "observacao": "Aguardando cliente"
-    }
-]
+{
+    "tarefas": [
+        {
+            "Data": "14/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "15/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "16/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "19/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "20/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "21/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "22/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "23/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "26/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "27/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "28/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "29/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "30/10/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "02/11/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Day-Off",
+            "Tarefa": "35054 - FY Non_Worked Hours",
+            "Coment\u00e1rio": "Ferido Nacional: Finados",
+            "Horas": "8"
+        },
+        {
+            "Data": "03/11/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "04/11/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "05/11/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "06/11/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "09/11/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "10/11/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "11/11/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        },
+        {
+            "Data": "12/11/2026",
+            "Usu\u00e1rio": "Feliciano De Albuquerque Melo Junior",
+            "Gestor": "Gonzalo Palacios",
+            "Projeto": "TMS",
+            "Atividade": "Tarefa",
+            "Tarefa": "35053 - Sustenta\u00e7\u00e3o - Hora trabalhada",
+            "Coment\u00e1rio": "PDSM - Incidentes do TMS - Tratamento de Corre\u00e7\u00e3o, Libera\u00e7\u00e3o, Duvidas de Usu\u00e1rio, Consultas ao Mastersaf, Consultas ao SOLIS.",
+            "Horas": "8"
+        }
+    ]
+}
